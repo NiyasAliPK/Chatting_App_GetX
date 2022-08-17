@@ -1,16 +1,14 @@
-# chat_app
+CHAT APP
 
-A new Flutter project.
+this is a basic chatting app created using flutter and firebase as back end to store data. In this app users who registered with the app can chat to each other. The logged in user can search for other registered members and start a new conversation.
 
-## Getting Started
+FEATURES AND TECHNOLOGIES USED:-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add, delete, edit transactions.
+Create account using email and password.
+Login using google account.
+Store profile image.
+Chat with registered users.
+Dark mode..
+Getx for state management and routing.
+Firebase for database.
